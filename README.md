@@ -17,3 +17,13 @@ Here are some ideas to get you started:
 
 [![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermasourav)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+<!--You can use the &layout=donut-vertical option to change the card design.-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermssourav&layout=donut-vertical)]
+
+
+
+
