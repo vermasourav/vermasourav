@@ -28,18 +28,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **Advanced Kotlin**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vermasourav](https://github.com/vermasourav)
-
-- 📝 I frequently upload tutorials on [https://www.youtube.com/@vermasourav/videos](https://www.youtube.com/@vermasourav/videos)
-
-- 💬 Ask me about **Flutter, Java, Kotlin**
-
-- 📫 How to reach me **logtosouravgmail.com**
-
-- 📄 Resume 
-
-- ⚡ Fun fact **Travling.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
