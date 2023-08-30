@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <!--You can use the &layout=donut-vertical option to change the card design.-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermssourav&layout=donut-vertical)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermasourav&layout=donut-vertical)]
 
 
 
