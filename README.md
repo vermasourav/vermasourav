@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermasourav)](https://github.com/anuraghazra/github-readme-stats)
+[![Sourav's GitHub stats](https://github-readme-stats.vercel.app/api?username=vermasourav)]  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermasourav&layout=donut-vertical)]
 
 
 
 
 <!--You can use the &layout=donut-vertical option to change the card design.-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vermasourav&layout=donut-vertical)]
 
 
 
